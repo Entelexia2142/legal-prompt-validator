@@ -22,16 +22,8 @@
 ├── case_04_utility_dispute.md       — кейс: кросс-проектный анализ двух споров
 ├── checklists.md                    — рабочие чек-листы проверки
 └── anonymization_checklist.md       — чек-лист анонимизации перед публикацией
-└── prompts/01_analiz_kassacionnoy_zhaloby.md ← системный промпт и протокол теста
+└── prompts/01_analiz_kassacionnoy_zhaloby.md ← системный промпт и протокол тест
 ```
-└── methodology/
-    ├── 04_economic_dimension.md
-    ├── 05_expert_dimension.md
-    ├── 06_scenario_modeling.md
-    ├── 07_preemptive_actions.md
-    ├── 08_advanced_analytical_models.md
-    └── 09_cross_project_analysis.md
-
 ## 📋 Кейсы
 ### Кейс 01: Промпт-валидация анализа кассационной жалобы
 
