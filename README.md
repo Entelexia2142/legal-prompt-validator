@@ -32,7 +32,7 @@ legal-prompt-validator/
 ├── cases/                                 # Практические кейсы
 │   ├── case_01_cassation_analysis.md      # Анализ кассационной жалобы
 │   ├── case_02_official_forgery.md        # Выявление служебного подлога
-│   └── case_04_utility_dispute.md         # Кросс-проектный анализ (земля + ЖКХ)
+│   └── case_03_utility_dispute.md         # Кросс-проектный анализ (земля + ЖКХ)
 ├── templates/
 │   ├── checklists.md                      # Рабочие чек-листы
 │   └── anonymization_checklist.md         # Чек-лист анонимизации перед публикацией
